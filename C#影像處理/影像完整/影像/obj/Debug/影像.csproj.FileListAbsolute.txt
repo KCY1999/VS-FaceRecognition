@@ -1,0 +1,120 @@
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\影像.exe
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\影像.pdb
+C:\Users\LiangAlan\Desktop\影像\影像\obj\Debug\影像.csprojAssemblyReference.cache
+C:\Users\LiangAlan\Desktop\影像\影像\obj\Debug\影像.Form1.resources
+C:\Users\LiangAlan\Desktop\影像\影像\obj\Debug\影像.Properties.Resources.resources
+C:\Users\LiangAlan\Desktop\影像\影像\obj\Debug\影像.csproj.GenerateResource.cache
+C:\Users\LiangAlan\Desktop\影像\影像\obj\Debug\影像.csproj.CoreCompileInputs.cache
+C:\Users\LiangAlan\Desktop\影像\影像\obj\Debug\影像.exe
+C:\Users\LiangAlan\Desktop\影像\影像\obj\Debug\影像.pdb
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\ZedGraph.dll
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\Emgu.CV.UI.xml
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\Emgu.CV.World.xml
+C:\Users\LiangAlan\Desktop\影像\影像\obj\Debug\影像.csproj.CopyComplete
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.dll
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.pdb
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.xml
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\LiangAlan\Desktop\影像\影像\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\Visual Studio 2017\影像\影像\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\Visual Studio 2017\影像\影像\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\Visual Studio 2017\影像\影像\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\Visual Studio 2017\影像\影像\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\Visual Studio 2017\影像\影像\bin\Debug\影像.exe
+E:\Visual Studio 2017\影像\影像\bin\Debug\影像.pdb
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.Blob.dll
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.dll
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.Extensions.dll
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\Visual Studio 2017\影像\影像\bin\Debug\ZedGraph.dll
+E:\Visual Studio 2017\影像\影像\bin\Debug\Emgu.CV.UI.xml
+E:\Visual Studio 2017\影像\影像\bin\Debug\Emgu.CV.UI.GL.xml
+E:\Visual Studio 2017\影像\影像\bin\Debug\Emgu.CV.World.xml
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.pdb
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.xml
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.Blob.pdb
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.Blob.xml
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.Extensions.xml
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\Visual Studio 2017\影像\影像\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\Visual Studio 2017\影像\影像\obj\Debug\影像.csprojAssemblyReference.cache
+E:\Visual Studio 2017\影像\影像\obj\Debug\影像.Form1.resources
+E:\Visual Studio 2017\影像\影像\obj\Debug\影像.Properties.Resources.resources
+E:\Visual Studio 2017\影像\影像\obj\Debug\影像.csproj.GenerateResource.cache
+E:\Visual Studio 2017\影像\影像\obj\Debug\影像.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\影像\影像\obj\Debug\影像.csproj.CopyComplete
+E:\Visual Studio 2017\影像\影像\obj\Debug\影像.exe
+E:\Visual Studio 2017\影像\影像\obj\Debug\影像.pdb
+E:\Visual Studio 2017\影像2\影像\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\Visual Studio 2017\影像2\影像\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\Visual Studio 2017\影像2\影像\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\Visual Studio 2017\影像2\影像\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\Visual Studio 2017\影像2\影像\bin\Debug\影像.exe
+E:\Visual Studio 2017\影像2\影像\bin\Debug\影像.pdb
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.Blob.dll
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.dll
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.Extensions.dll
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\Visual Studio 2017\影像2\影像\bin\Debug\ZedGraph.dll
+E:\Visual Studio 2017\影像2\影像\bin\Debug\Emgu.CV.UI.xml
+E:\Visual Studio 2017\影像2\影像\bin\Debug\Emgu.CV.UI.GL.xml
+E:\Visual Studio 2017\影像2\影像\bin\Debug\Emgu.CV.World.xml
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.pdb
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.xml
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.Blob.pdb
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.Blob.xml
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.Extensions.xml
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\Visual Studio 2017\影像2\影像\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\Visual Studio 2017\影像2\影像\obj\Debug\影像.csprojAssemblyReference.cache
+E:\Visual Studio 2017\影像2\影像\obj\Debug\影像.Form1.resources
+E:\Visual Studio 2017\影像2\影像\obj\Debug\影像.Properties.Resources.resources
+E:\Visual Studio 2017\影像2\影像\obj\Debug\影像.csproj.GenerateResource.cache
+E:\Visual Studio 2017\影像2\影像\obj\Debug\影像.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\影像2\影像\obj\Debug\影像.csproj.CopyComplete
+E:\Visual Studio 2017\影像2\影像\obj\Debug\影像.exe
+E:\Visual Studio 2017\影像2\影像\obj\Debug\影像.pdb
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\影像.exe
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\影像.pdb
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.Blob.dll
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.dll
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.Extensions.dll
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\ZedGraph.dll
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\Emgu.CV.UI.xml
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\Emgu.CV.UI.GL.xml
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\Emgu.CV.World.xml
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.pdb
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.xml
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.Blob.pdb
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.Blob.xml
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.Extensions.xml
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\Visual Studio 2017\影像2 - 複製\影像\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\Visual Studio 2017\影像2 - 複製\影像\obj\Debug\影像.csprojAssemblyReference.cache
+E:\Visual Studio 2017\影像2 - 複製\影像\obj\Debug\影像.Form1.resources
+E:\Visual Studio 2017\影像2 - 複製\影像\obj\Debug\影像.Properties.Resources.resources
+E:\Visual Studio 2017\影像2 - 複製\影像\obj\Debug\影像.csproj.GenerateResource.cache
+E:\Visual Studio 2017\影像2 - 複製\影像\obj\Debug\影像.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\影像2 - 複製\影像\obj\Debug\影像.csproj.CopyComplete
+E:\Visual Studio 2017\影像2 - 複製\影像\obj\Debug\影像.exe
+E:\Visual Studio 2017\影像2 - 複製\影像\obj\Debug\影像.pdb
